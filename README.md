@@ -1,34 +1,18 @@
-![Travis report](https://travis-ci.org/ninja-ide/ninja-ide.svg?branch=master "Travis-C.I. Testing report")
+#BRANCH PÚBLICO DE ODOO - ADDONS EXTRA
 
-# Ninja-ide Is Not Just Another IDE.
-**Ninja-IDE** is a cross-platform integrated development environment (IDE) that allows developers to create applications for any purpose making the task of writing software easier and more enjoyable. It's also a secret ninja agency but this doesn't matter right now.
-![Ninja-IDE logo](https://coronadoedgar.files.wordpress.com/2013/07/edgarlogo.png)
-
-
-## Platforms
-- Linux/X11
-- Mac OS X
-- Windows
+Módulos desarrollados para Odoo con el objetivo de adaptar las funcionalidades a requerimientos específicos, que he identificando a lo largo de mi experiencia, las cuales expongo en: http://coronadoedgar.wordpress.com/category/odoo-openerp/
+![CoronadoEDGAR logo](http://coronadoedgar.files.wordpress.com/2013/07/edgarlogo.png)
 
 
-## Ninja contact
--   [Ninja website](http://ninja-ide.org "http://ninja-ide.org") at ninja-ide.org
+##Coronado Edgar contacto:
+-	[Facebook](http://www.facebook.com/coronadoedgar)
+-	Twiter
+-	Linkedin
+-	Youtube
+-	Wordpress
+-	Email
 
-
-## Requirements
-On any system you want **Ninja-IDE**, you'll need to have this dependencies installed:
-
--   [Python](http://python.org "Python Homepage") >= 2.7  *(or Python3)*
-
-
-
-## Cloning and Running
-You can clone this repo and simply execute:
 
 ## Videos
-[![Coronado Edgar Videos]](https:https://www.youtube.com/watch?v=IvkxM78sxm0 "Introducción a Odoo")
-
-
-## License
--   **GPLv3+** *(GPLv3 or any other version later published by FSF at your option)*
-
+![Coronado Edgar Videos](http://www.youtube.com/playlist?list=PLXC4RvIj887iMAJSeLSJHMj93RbFOrhKn "Odoo, más que un erp")
+![Coronado Edgar Videos](http://www.youtube.com/playlist?list=PLXC4RvIj887g7yzMDNTfNPWlTGW7qM0Dx "Open ERP para todos")
