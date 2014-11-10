@@ -1,6 +1,6 @@
 #BRANCH PÚBLICO DE ODOO - ADDONS EXTRA
 
-Módulos desarrollados para Odoo con el objetivo de adaptar las funcionalidades a requerimientos específicos, que he identificando a lo largo de mi experiencia, las cuales expongo en: ![coronadoEdgar](http://coronadoedgar.wordpress.com/category/odoo-openerp/)
+Módulos desarrollados para Odoo con el objetivo de adaptar las funcionalidades a requerimientos específicos, que he identificando a lo largo de mi experiencia, las cuales expongo en: [coronadoEdgar](http://coronadoedgar.wordpress.com/category/odoo-openerp/)
 ![CoronadoEDGAR logo](http://coronadoedgar.files.wordpress.com/2013/07/edgarlogo.png)
 
 
